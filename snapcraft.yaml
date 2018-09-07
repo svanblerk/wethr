@@ -1,4 +1,4 @@
-name: wethr
+name: svb-wethr
 version: git
 summary: Command line weather tool.
 description: |

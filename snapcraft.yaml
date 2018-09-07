@@ -19,4 +19,5 @@ apps:
 parts:
   wethr:
     plugin: nodejs
+    node-engine: 8.11.4
     source: .
